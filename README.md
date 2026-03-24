@@ -1,7 +1,4 @@
-# Perfil
-Soy un Desarrollador Frontend apasionado por crear experiencias web interactivas y visualmente atractivas. Me especializo en JavaScript, HTML, CSS y frameworks modernos como React, enfocándome en construir interfaces intuitivas, responsivas y eficientes.
-
-# 👋 Hola, soy Frankcol Cardicht
+👋 Hola, soy Frankcol Cardicht
 ```js
 const developer = {
   name: "Frankcol Cardicht",
@@ -11,8 +8,6 @@ const developer = {
   goal: "Convertirme en desarrollador sólido"
 };
 ```
-
-Desarrollador JavaScript apasionado por la lógica, la asincronía y las estructuras dinámicas. 
-Me gusta crear soluciones eficientes y aprender nuevas tecnologías constantemente.
+Soy un Desarrollador Frontend apasionado por crear experiencias web interactivas y visualmente atractivas. Me especializo en JavaScript, HTML, CSS y frameworks modernos como React, enfocándome en construir interfaces intuitivas, responsivas y eficientes.
 
 ---
